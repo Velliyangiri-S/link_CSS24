@@ -1,0 +1,87 @@
+h1{
+    text-align: center;
+    font-size: 65px;
+    font-weight: bold;
+    color: rgb(112, 4, 4);  
+}
+h1{
+    text-shadow: 3px 3px 5px white;
+}
+#t{
+    font-size: 40px;
+    color:blue;
+    font-weight:lighter;
+    text-shadow: 2px 2px 2px  black;
+    border-radius: 50px;
+}
+#tt{
+    font-size: 35px;
+    color:green;
+}
+#ttt{
+    font-size: 20px;
+}
+body{
+    background:linear-gradient(#0070ff,#ffffff,#71A3ff,#94beff,#B4d9ff,#d5f6ff,#f5ffff)
+}
+marquee{
+    margin-left: 500px;
+    width: 500px
+}
+#k{
+    font-size: 40px;
+    color:blue;
+    font-weight:lighter;
+    text-shadow: 2px 2px 2px  black;
+    border-radius: 50px;
+}
+#kkk{
+    font-size: 20px;
+}
+#kk{
+    font-size: 35px;
+    color:green;
+}
+
+#ka{
+    font-size: 40px;
+    color:blue;
+    font-weight:lighter;
+    text-shadow: 2px 2px 2px  black;
+    border-radius: 50px;
+}
+#kaka{
+    font-size: 35px;
+    color:green;
+}
+#kakaka{
+    font-size: 20px;
+}
+#up{
+    font-size: 40px;
+    color:blue;
+    font-weight:lighter;
+    text-shadow: 2px 2px 2px  black;
+    border-radius: 50px;
+}
+#upup{
+    font-size: 35px;
+    color:green;
+}
+#upupup{
+    font-size: 20px;
+}
+#j{
+    font-size: 40px;
+    color:blue;
+    font-weight:lighter;
+    text-shadow: 2px 2px 2px  black;
+    border-radius: 50px;
+}
+#jk{
+    font-size: 35px;
+    color:green;
+}
+#jkjkjk{
+    font-size: 20px;
+}
